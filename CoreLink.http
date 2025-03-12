@@ -1,0 +1,6 @@
+@CoreLink_HostAddress = http://localhost:5003
+
+GET {{CoreLink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
